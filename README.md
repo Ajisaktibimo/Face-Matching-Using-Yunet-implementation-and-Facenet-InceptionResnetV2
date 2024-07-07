@@ -1,5 +1,5 @@
-FIrst Clone This Repo
-In Shell path on your directory to build docker image
+FIrst git clone This Repo
+In Shell path on your directory Write This Comman to build docker image 
 
 
 
@@ -12,9 +12,10 @@ docker run -p 8000:8000 face-recognition-app
 
 
 After Finished
-Open
+Open This Local Link 
 
-http://127.0.0.1:8000/docs#/ and there is FastAPI-Swagger UI to Test the API
+http://127.0.0.1:8000/docs#/
+and there is FastAPI-Swagger UI to Test the API
 If you want to star Docker Compose Write this 
 
 
