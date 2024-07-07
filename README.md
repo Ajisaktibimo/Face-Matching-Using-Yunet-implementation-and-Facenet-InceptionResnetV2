@@ -1,5 +1,9 @@
 FIrst Clone This Repo
 In Shell path on your directory to build docker image
+
+
+
+
 docker build -t face-recognition-app .
 
 
