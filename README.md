@@ -24,5 +24,5 @@ Open This Local Link
 http://127.0.0.1:8000/docs#/
 and there is FastAPI-Swagger UI to Test the API
 
-The Test Above Can upload an Image. As a test you can use what ever image. I include some image in folder Face_embed
+The Test Above Can upload an Image. As a test you can use what ever image.
 Thank You
