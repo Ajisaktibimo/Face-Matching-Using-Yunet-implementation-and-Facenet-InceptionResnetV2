@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+numpy
+opencv-python-headless
+onnxruntime
+scikit-learn
+psycopg2-binary
+sqlalchemy
